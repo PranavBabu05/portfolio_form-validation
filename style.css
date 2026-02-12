@@ -404,17 +404,3 @@ div .para1{
 .button-reset:active {
     transform: translateY(0);
 }
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .contact-form {
-        padding: 20px;
-        margin: 20px 10px;
-    }
-    
-    .form-group input,
-    .form-group select,
-    .form-group textarea {
-        font-size: 14px;
-    }
-}
